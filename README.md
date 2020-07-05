@@ -14,6 +14,8 @@
       </nav>
     </main>
     Здесь может быть ваша реклама)))
+    Этот сайт не читайте он пробный был поэтому заброшен(((
+    This site does not read it, the trial was therefore abandoned (((
     <footer>
       <br>Подвал сайта
     </footer>
